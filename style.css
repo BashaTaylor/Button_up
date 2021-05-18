@@ -1,0 +1,27 @@
+#round_button {
+    border-radius: 50%;
+    color:white;
+    background-color: turquoise; 
+    border-width: 2.5mm;
+    border-color: turquoise; 
+
+}
+
+#send_button {
+    box-shadow: 2px 8px black;
+    color: white;
+    background-color: mediumblue;
+    height: 10mm;
+    width: 55mm;
+    font-size: 4.5mm;
+}
+
+#search_button {
+    color:turquoise;
+    background-color: white;
+    border-radius: 30px;
+    width: 40mm;
+    height: 10mm;
+
+
+}
